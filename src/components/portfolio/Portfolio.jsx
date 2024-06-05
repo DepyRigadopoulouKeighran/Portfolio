@@ -16,7 +16,7 @@ const Portfolio = () => {
             <div
               className="col-span-2 row-span-5 relative grid-item"
               style={{
-                backgroundImage: "url(./src/images/gallery.png)",
+                backgroundImage: "url(/images/gallery.png)",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
@@ -35,7 +35,7 @@ const Portfolio = () => {
             <div
               className="col-span-2 row-span-5 grid-item"
               style={{
-                backgroundImage: "url(./src/images/pokemon.png)",
+                backgroundImage: "url(/images/pokemon.png)",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
@@ -59,7 +59,7 @@ const Portfolio = () => {
             <div
               className="col-span-1 row-span-12 grid-item"
               style={{
-                backgroundImage: "url(./src/images/tripVault.png)",
+                backgroundImage: "url(/images/tripVault.png)",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
@@ -75,7 +75,7 @@ const Portfolio = () => {
             <div
               className="col-span-2 row-span-7 grid-item"
               style={{
-                backgroundImage: "url(./src/images/todo-list.png)",
+                backgroundImage: "url(/images/todo-list.png)",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
