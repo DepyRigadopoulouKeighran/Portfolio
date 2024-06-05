@@ -1,7 +1,6 @@
 .filter {
   background-color: rgba(200, 210, 192, 90%);
   height: 100%;
-  z-index: 100;
   color: #4d5d53;
 }
 
@@ -19,24 +18,16 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
   justify-content: space-between;
   gap: 20px;
 }
 
 .skills-item {
-  -webkit-box-flex: 0;
-  -ms-flex: 0 0 48%;
   flex: 0 0 48%;
   max-width: 48%;
 }
 
 .skills-info {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
@@ -49,8 +40,6 @@
   line-height: 36px;
   color: #4d5d53;
   opacity: 1;
-  -webkit-animation: showText 0.5s 1s linear forwards;
-  animation: showText 0.5s 1s linear forwards;
 }
 
 .progress-line {
@@ -74,30 +63,6 @@
   position: absolute;
   background-color: #e14208;
   transition: 1s all;
-}
-
-.skills-span.animate {
-  -webkit-animation: animate 1.5s 0.5s cubic-bezier(1, 0, 0.5, 1) forwards;
-  animation: animate 1.5s 05 cubic-bezier(1, 0, 0.5, 1) forwards;
-}
-
-@-webkit-keyframes showText {
-  100% {
-    opacity: 1;
-  }
-}
-
-@keyframes showText {
-  100% {
-    opacity: 1;
-  }
-}
-
-@-webkit-keyframes animate {
-  100% {
-    -webkit-transform: scaleX(1);
-    transform: scaleX(1);
-  }
 }
 
 @keyframes animate {

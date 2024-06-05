@@ -1,6 +1,5 @@
 import "./App.css";
 import "./index.css";
-//import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HomePage from "./components/HomePage/HomePage.jsx";
 import PageContainer from "./components/pageContainer/PageContainer.jsx";
 import Header from "./components/Header/Header.jsx";

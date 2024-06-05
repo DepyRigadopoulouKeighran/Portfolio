@@ -47,6 +47,10 @@
   text-align: center;
 }
 
+.overlay-description {
+  color: #e14208;
+}
+
 .grid-item:hover .overlay-text {
   transform: 0.3s, opacity 0.3s;
   transform: translate3d(0, -15px, 0);

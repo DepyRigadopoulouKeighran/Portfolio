@@ -1,6 +1,5 @@
 import { useEffect, useRef } from "react";
 import Typed from "typed.js";
-
 import "../HomePage/homePage.css";
 
 const HomePage = () => {

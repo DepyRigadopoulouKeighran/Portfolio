@@ -10,11 +10,27 @@ const Portfolio = () => {
           </h2>
           <div className="grid grid-cols-3 grid-rows-12 ml-48 mr-48 grid-auto-rows-[50px] gap-6 h-screen grid-container">
             {/* First Box */}
-            <div className="col-span-1 row-span-5 bg-yellow-100 firstBox"></div>
+            <div
+              className="col-span-1 row-span-5 grid-item"
+              style={{
+                backgroundImage: "url(/images/tictactoe.png)",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+              }}
+              onClick={() => {
+                window.open("https://tic-tac-toe-71d3.onrender.com", "_blank");
+              }}
+            >
+              <div className="box-image"></div>
+              <div className="overlay absolute inset-0 flex flex-col justify-center items-center font-extrabold">
+                <span className="overlay-text text-3xl">TIC TAC TOE</span>
+                <span className="overlay-description text-2xl">Game</span>
+              </div>
+            </div>
 
             {/* Second Box */}
             <div
-              className="col-span-2 row-span-5 relative grid-item"
+              className="col-span-2 row-span-5 grid-item"
               style={{
                 backgroundImage: "url(/images/gallery.png)",
                 backgroundSize: "cover",
@@ -30,7 +46,6 @@ const Portfolio = () => {
                 <span className="overlay-description text-2xl">Design</span>
               </div>
             </div>
-
             {/* Third Box */}
             <div
               className="col-span-2 row-span-5 grid-item"
@@ -54,7 +69,6 @@ const Portfolio = () => {
                 </span>
               </div>
             </div>
-
             {/* Fourth Box */}
             <div
               className="col-span-1 row-span-12 grid-item"
@@ -70,7 +84,6 @@ const Portfolio = () => {
                 <span className="overlay-description text-2xl">App</span>
               </div>
             </div>
-
             {/* Fifth Box */}
             <div
               className="col-span-2 row-span-7 grid-item"
