@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Steamflix Montserrat", sans-serif;
+}
+
+.filter-homepage {
+  background-color: rgba(245, 236, 202, 50%);
+}
+
+.nameContent {
+  color: #4d5d53;
+}
+
+.titleContent {
+  color: #738678;
+}

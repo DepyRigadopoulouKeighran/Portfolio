@@ -1,0 +1,6 @@
+.page-container {
+  background-image: url("../../images/main-Image.jpg");
+  background-size: contain;
+  background-position: initial;
+  background-repeat: repeat;
+}

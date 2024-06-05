@@ -1,0 +1,22 @@
+.filter-about {
+  background-color: rgba(153, 169, 143, 50%);
+  height: 100%;
+}
+
+.colorFrame {
+  border: 18px solid #738678;
+}
+
+.image {
+  margin-top: -60px;
+}
+
+.titleAbout {
+  color: #4d5d53;
+  font-weight: 600;
+}
+
+.contentAbout {
+  color: #4d5d53;
+  font-weight: 600;
+}
