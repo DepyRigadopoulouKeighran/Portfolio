@@ -24,6 +24,3 @@ function App() {
 }
 
 export default App;
-
-// sm:max-w-md
-// max-w-xs

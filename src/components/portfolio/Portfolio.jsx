@@ -77,6 +77,12 @@ const Portfolio = () => {
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
+              onClick={() => {
+                window.open(
+                  "https://github.com/MarinnaPereira/trip-vault",
+                  "_blank"
+                );
+              }}
             >
               <div className="box-image"></div>
               <div className="overlay absolute inset-0 flex flex-col justify-center items-center font-extrabold">
