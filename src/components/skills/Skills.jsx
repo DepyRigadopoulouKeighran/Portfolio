@@ -90,7 +90,7 @@ const Skills = () => {
     <div>
       <div>
         <div id="skillsSection" className="filter">
-          <h2 className="text-6xl pt-32 ml-48 titleSkills">Skills</h2>
+          <h2 className="text-6xl pt-32 ml-48 titleSkills">Kenntnisse</h2>
           <section
             className="skills-section pt-24 pr-0 pb-96 relative"
             id="skills"
