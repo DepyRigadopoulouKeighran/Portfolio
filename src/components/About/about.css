@@ -19,4 +19,8 @@
 .contentAbout {
   color: #4d5d53;
   font-weight: 600;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
