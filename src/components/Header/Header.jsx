@@ -19,19 +19,19 @@ const Header = () => {
         <nav>
           <ul className="flex space-x-8 font-bold">
             <li className="hover:scale-125 transition-transform ">
-              <a href="#homeSection">Home</a>
+              <a href="#homeSection">Startseite</a>
             </li>
             <li className="hover:scale-125 transition-transform">
-              <a href="#aboutSection">About</a>
+              <a href="#aboutSection">Profil</a>
             </li>
             <li className="hover:scale-125 transition-transform">
-              <a href="#portfolioSection">Portfolio</a>
+              <a href="#portfolioSection">Projekte</a>
             </li>
             <li className="hover:scale-125 transition-transform">
-              <a href="#skillsSection">Skills</a>
+              <a href="#skillsSection">Kenntnisse</a>
             </li>
             <li className="hover:scale-125 transition-transform">
-              <a href="#contactSection">Contact</a>
+              <a href="#contactSection">Kontakt</a>
             </li>
           </ul>
         </nav>
