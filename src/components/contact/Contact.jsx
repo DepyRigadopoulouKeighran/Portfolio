@@ -14,11 +14,12 @@ const Contact = () => {
 
     emailjs
       .sendForm("service_8cklpu1", "template_bbxx9p8", form.current, {
-        publicKey: "lBMNDjKqGLChMMeta",
+        publicKey: "gOiqxKY6x_OC1KTnn",
       })
       .then(
         () => {
           console.log("MESSAGE SEND SUCCESSFULLY!");
+          form.current.reset(); 
           setIsSending(false);
         },
         (error) => {
