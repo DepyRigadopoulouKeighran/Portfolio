@@ -7,7 +7,7 @@ const HomePage = () => {
 
   useEffect(() => {
     const options = {
-      strings: ["Full Stack Web Developer"],
+      strings: ["Full Stack Webentwicklerin"],
       typeSpeed: 70,
       backSpeed: 25,
       loop: true,
