@@ -24,7 +24,7 @@ const Portfolio = () => {
               <div className="box-image"></div>
               <div className="overlay absolute inset-0 flex flex-col justify-center items-center font-extrabold">
                 <span className="overlay-text text-3xl">TIC TAC TOE</span>
-                <span className="overlay-description text-2xl">Game</span>
+                <span className="overlay-description text-2xl">Spiel</span>
               </div>
             </div>
 
@@ -42,7 +42,7 @@ const Portfolio = () => {
             >
               <div className="box-image"></div>
               <div className="overlay absolute inset-0 flex flex-col justify-center items-center font-extrabold">
-                <span className="overlay-text text-3xl">GALLERY GRID</span>
+                <span className="overlay-text text-3xl">GALERIE IM GRID-LAYOUT</span>
                 <span className="overlay-description text-2xl">Design</span>
               </div>
             </div>
@@ -63,7 +63,7 @@ const Portfolio = () => {
             >
               <div className="box-image"></div>
               <div className="overlay absolute inset-0 flex flex-col justify-center items-center font-extrabold">
-                <span className="overlay-text text-3xl">POKEMON CARDS</span>
+                <span className="overlay-text text-3xl">POKEMON KARTEN</span>
                 <span className="overlay-description text-xl">
                   API Integration
                 </span>
@@ -104,9 +104,9 @@ const Portfolio = () => {
             >
               <div className="box-image"></div>
               <div className="overlay absolute inset-0 flex flex-col justify-center items-center font-extrabold">
-                <span className="overlay-text text-3xl">TO-DO-LIST</span>
+                <span className="overlay-text text-3xl">AUFGABENLISTE</span>
                 <span className="overlay-description text-2xl">
-                  Functionality
+                  Funktionalität
                 </span>
               </div>
             </div>
