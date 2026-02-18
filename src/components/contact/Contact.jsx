@@ -60,11 +60,13 @@ const Contact = () => {
               className="w-3/6 h-[35px] p-[30px] text-lg mb-6 rounded border bg-[#fff8de]"
               placeholder="Betreff"
               type="text"
+              name="subject"
             />
 
             <textarea
               className="w-3/6 mb-6 pt-[20px] text-lg pb-[180px] overflow-auto pl-8 bg-[#fff8de]"
               placeholder="Nachricht"
+              name="message"
             />
             <button
               className={`w-3/6 p-[15px] text-lg font-bold text-[#4d5d53] mb-52 rounded border ${
