@@ -33,7 +33,7 @@ const Contact = () => {
       <div id="contactSection">
         <div className=" flex-grow-0 justify-center pt-20 flex-row-reverse items-center filter-contact ">
           <h2 className="text-6xl text-center pt-16 pb-16 titleContact">
-            Contact Me
+            Kontakt
           </h2>
           <form
             className="flex items-center flex-col w-full text-base"
@@ -50,7 +50,7 @@ const Contact = () => {
 
               <input
                 className="w-3/6 h-[35px] p-[30px] text-lg rounded border bg-[#fff8de]"
-                placeholder="Email"
+                placeholder="E-mail"
                 type="email"
                 name="user_email"
               />
@@ -58,13 +58,13 @@ const Contact = () => {
 
             <input
               className="w-3/6 h-[35px] p-[30px] text-lg mb-6 rounded border bg-[#fff8de]"
-              placeholder="Subject"
+              placeholder="Betreff"
               type="text"
             />
 
             <textarea
               className="w-3/6 mb-6 pt-[20px] text-lg pb-[180px] overflow-auto pl-8 bg-[#fff8de]"
-              placeholder="Message"
+              placeholder="Nachricht"
             />
             <button
               className={`w-3/6 p-[15px] text-lg font-bold text-[#4d5d53] mb-52 rounded border ${
@@ -73,7 +73,7 @@ const Contact = () => {
               type="submit"
               disabled={isSending}
             >
-              SEND MESSAGE
+              NACHRICHT SENDEN
             </button>
           </form>
         </div>
