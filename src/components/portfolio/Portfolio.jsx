@@ -6,7 +6,7 @@ const Portfolio = () => {
       <div id="portfolioSection">
         <div className="pb-20 filter-portfolio">
           <h2 className="text-6xl pt-32 pb-12 ml-48 titlePortfolio">
-            Portfolio
+            Projekte
           </h2>
           <div className="grid grid-cols-3 grid-rows-12 ml-48 mr-48 grid-auto-rows-[50px] gap-6 h-screen grid-container">
             {/* First Box */}
