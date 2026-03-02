@@ -15,18 +15,20 @@ const AboutPage = () => {
           <br />
           <br />
           Ich mag Dinge, die funktionieren.
+          <br />
           Strukturen, die Sinn ergeben.
+          <br />
           Und Lösungen, die nicht nur gut aussehen, sondern auch tragen.
+          <br />
           <br />
           Lange habe ich in Rollen gearbeitet, in denen Organisation, Verantwortung und Überblick gefragt waren. 
           Irgendwann wurde mir klar, dass ich nicht nur mit Systemen arbeiten möchte, sondern verstehen will, wie sie entstehen.
-            <br />
+          <br />
           <br />
           Also habe ich begonnen, mich technisch weiterzuentwickeln.
-Heute verbinde ich meine Erfahrung aus der Praxis mit neuen digitalen Kompetenzen und bewege mich bewusst in Richtung Informatik.
-<br />
+          Heute verbinde ich meine Erfahrung aus der Praxis mit neuen digitalen Kompetenzen und bewege mich bewusst in Richtung Informatik.  
+          <br />  
           <br />
-
           Ich bin neugierig, unabhängig und immer am Puls der Zeit – mit einem Sinn für Ästhetik, Struktur und einer guten Portion Humor.
           <br />
           <br />
