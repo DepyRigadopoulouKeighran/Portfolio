@@ -11,17 +11,23 @@ const AboutPage = () => {
         <h2 className="text-6xl mt-36 titleAbout">Profil</h2>
         <br />
         <p className="text-2xl mt-4 mb-16 text-justify tracking-wider contentAbout">
-          Ich bin angehende Webentwicklerin mit Kenntnissen sowohl im Frontend als 
-          auch im Backend.  
-          Ich habe Erfahrung mit HTML, CSS, JavaScript sowie grundlegenden Backend 
-          Technologien.
+          Hallo, ich bin Depy.
           <br />
           <br />
-          Ich interessiere mich besonders für die Entwicklung moderner und 
-          benutzerfreundlicher Webanwendungen.
+          Ich mag Dinge, die funktionieren.
+          Strukturen, die Sinn ergeben.
+          Und Lösungen, die nicht nur gut aussehen, sondern auch tragen.
           <br />
-          Mein Ziel ist es, praktische Erfahrung zu sammeln und mich sowohl fachlich 
-          als auch persönlich weiterzuentwickeln.
+          Lange habe ich in Rollen gearbeitet, in denen Organisation, Verantwortung und Überblick gefragt waren. 
+          Irgendwann wurde mir klar, dass ich nicht nur mit Systemen arbeiten möchte, sondern verstehen will, wie sie entstehen.
+            <br />
+          <br />
+          Also habe ich begonnen, mich technisch weiterzuentwickeln.
+Heute verbinde ich meine Erfahrung aus der Praxis mit neuen digitalen Kompetenzen und bewege mich bewusst in Richtung Informatik.
+<br />
+          <br />
+
+          Ich bin neugierig, unabhängig und immer am Puls der Zeit – mit einem Sinn für Ästhetik, Struktur und einer guten Portion Humor.
           <br />
           <br />
         </p>
