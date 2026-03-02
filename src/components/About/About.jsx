@@ -29,7 +29,7 @@ const AboutPage = () => {
           Heute verbinde ich meine Erfahrung aus der Praxis mit neuen digitalen Kompetenzen und bewege mich bewusst in Richtung Informatik.  
           <br />  
           <br />
-          Ich bin neugierig, unabhängig und immer am Puls der Zeit – mit einem Sinn für Ästhetik, Struktur und einer guten Portion Humor.
+          Ich bin neugierig, unabhängig und immer am Puls der Zeit mit einem Sinn für Ästhetik, Struktur und einer guten Portion Humor.
           <br />
           <br />
         </p>
